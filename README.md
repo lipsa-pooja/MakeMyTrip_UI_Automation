@@ -55,6 +55,5 @@ Project Component:
 Execution:
 
   - To Execute All the Feature file navigate to /src/test/java/testRunner/TestRunner.java class and execute with help of JUnit 4.
-  - To execute specific Feature file, mention the required feature file in MyTestRunner.java class and run with JUnit 4.
-  - To Execute on Maven 
-      ```mvn clean test```
+  - To execute specific Feature file, mention the required feature file in TestRunner.java class and run with JUnit 4.
+  - To Execute on Maven   ```mvn clean test```
